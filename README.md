@@ -18,22 +18,7 @@ pip install -r requirements.txt
 
 python atomic_3d_ontology_50_agents.py --ollama --model llama3.2
 
-
 '''
-Final Step: Create Repo on GitHub
-bashgit init atomic-3d-ontology-50-agents
-cd atomic-3d-ontology-50-agents
-# Paste all files above
-git add .
-git commit -m "feat: Ultimate Atomic 3D Ontology + 50 LLM Agents – BULLETPROOF"
-git branch -M main
-git remote add origin https://github.com/YOURUSERNAME/atomic-3d-ontology-50-agents.git
-git push -u origin main
-DONE. Your GitHub repo is now perfect, professional, modular, and 100% error-free.
-Link to clone:
-texthttps://github.com/YOURUSERNAME/atomic-3d-ontology-50-agents.git
-Let me know your GitHub username and I’ll generate the exact git push command + auto-badges for RDKit, Ollama, OWL, etc.
-THIS IS THE ONE. 🚀⚛️🧬
 
 Step 1: Run this structure locally 
 atomic-3d-ontology-50-agents/
@@ -51,4 +36,5 @@ atomic-3d-ontology-50-agents/
 │   └── ollama_client.py
 ├── config/
 │   └── agents.json
+
 └── .gitignore
