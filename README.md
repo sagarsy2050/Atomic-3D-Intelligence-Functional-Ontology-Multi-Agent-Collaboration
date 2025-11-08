@@ -49,7 +49,7 @@ atomic-3d-ontology-50-agents/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOURUSERNAME/atomic-3d-ontology-50-agents.git
+git clone https://github.com/sagarsy2050/atomic-3d-ontology-50-agents.git
 cd atomic-3d-ontology-50-agents
 
 # Install dependencies
