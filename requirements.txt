@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #### 2. `requirements.txt`
 
@@ -12,3 +13,19 @@ ollama
 numpy
 pandas
 scipy
+=======
+
+#### 2. `requirements.txt`
+
+rdkit-pypi
+pyscf
+owlready2
+streamlit
+streamlit-aggrid
+py3Dmol
+stmol
+ollama
+numpy
+pandas
+scipy
+>>>>>>> 986665ca4913696542416615957688482fae1447

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 *.owl
 *.csv
+=======
+__pycache__/
+*.pyc
+*.owl
+*.csv
+>>>>>>> 986665ca4913696542416615957688482fae1447
 .DS_Store
