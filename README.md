@@ -2,65 +2,66 @@
 
 **THE ONE THAT WORKS EVERYWHERE**
 
-Generates **low-energy 3D conformers**, computes **Gasteiger charges**,
-**dipole**, **PMI**, **asphericity**, embeds **per-atom 3D coordinates +
-charges** into a **full OWL ontology**, and launches **50+ atomic-level
-LLM agents** via Ollama for deep SAR insights.
+This system generates **low‑energy 3D conformers**, computes **Gasteiger
+charges**, **dipole**, **PMI**, **asphericity**, embeds **per‑atom 3D
+coordinates** into a **full OWL ontology**, and launches **50+
+atomic‑level LLM agents** for deep SAR analysis.
 
 ------------------------------------------------------------------------
 
-## Media (new additions)
+# 📽 Media (Hosted Externally Required)
 
-This repository now includes:\
-1) a short demo video\
-2) an audio description file for the 50 AI agents\
-3) a high-resolution map/flowchart PNG illustrating the pipeline and
-agent interactions.
+GitHub does **not** allow `<video>` or `<audio>` playback from local
+repo files.
 
-**Files added**: - `media/video/The_AI_Drug_Discovery_Engine.mp4` -
-`media/audio/50_AI_Agents_description.mp3` -
-`media/audio/50_AI_Agents_description.txt` - `images/map_flowchart.png`
+Below are placeholders you can update once your media files are uploaded
+to **GitHub Releases**, **YouTube**, **Drive**, or **Cloudflare R2**.
 
-### Embeds
+### ▶ Video Demo (Replace URL)
 
 ``` html
 <video controls width="720">
-  <source src="The_AI_Drug_Discovery_Engine.mp4" type="video/mp4">
+  <source src="YOUR_VIDEO_URL_HERE.mp4" type="video/mp4">
 </video>
 ```
 
+### 🔊 Audio Description (Replace URL)
+
 ``` html
 <audio controls>
-  <source src="50_AI_Agents_description.mp3" type="audio/mpeg">
+  <source src="YOUR_AUDIO_URL_HERE.mp3" type="audio/mpeg">
 </audio>
 ```
 
-![Pipeline map and flowchart](images/map.png)
+### 🗺 Flowchart Image (PNG)
+
+``` markdown
+![Pipeline map and flowchart](images/map_flowchart.png)
+```
 
 ------------------------------------------------------------------------
 
-## Uses
+# 🚀 Uses
 
-1.  Drug discovery & design\
-2.  SAR analysis via 50+ agents\
-3.  OWL ontology building\
-4.  Visualization & reporting\
-5.  Research & education
+1.  **Drug Discovery & Design**\
+2.  **Structure‑Activity Relationship (SAR) with 50+ AI Agents**\
+3.  **Full OWL Ontology Generation**\
+4.  **3D & Property Visualization**\
+5.  **Education & Research**
 
 ------------------------------------------------------------------------
 
-## Features
+# ⭐ Features
 
 -   ETKDGv3 → MMFF → UFF optimization\
--   50+ specialized agents\
--   Full OWL/RDF ontology\
--   Gasteiger charges, PMI, dipole, asphericity\
--   Works in Jupyter, terminal, Docker\
--   Auto-generates sample data
+-   50+ specialized reasoning agents\
+-   OWL/RDF ontology with per‑atom coordinates\
+-   Real Gasteiger charges, PMI, dipole, asphericity\
+-   Jupyter, terminal, or Docker support
 
 ------------------------------------------------------------------------
 
-## Quick Start
+# ⚡ Quick Start
 
 ``` bash
 pip install -r requirements.txt
@@ -69,7 +70,7 @@ python atomic_3d_ontology_50_agents.py --ollama --model llama3.2
 
 ------------------------------------------------------------------------
 
-## Repository Structure
+# 📁 Repository Structure
 
     atomic-3d-ontology-50-agents/
     ├── README.md
@@ -98,6 +99,6 @@ python atomic_3d_ontology_50_agents.py --ollama --model llama3.2
 
 ------------------------------------------------------------------------
 
-## Contact
+# 📬 Contact
 
-Open an issue or contact the maintainer.
+Open an issue or contact the maintainer for support.
