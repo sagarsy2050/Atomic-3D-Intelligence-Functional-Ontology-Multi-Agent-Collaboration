@@ -1,4 +1,5 @@
-# Atomic 3D + Functional Ontology + 50 AI Agents – ULTIMATE DRUG DISCOVERY ENGINE
+# A Multi-Agent Framework Combining Ontology with 3D Molecular Geometry and Energy Optimization for Drug Discovery Reasoning.
+
 
 **THE ONE THAT WORKS EVERYWHERE**
 
